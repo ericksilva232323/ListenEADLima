@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:#ffffff;
+    padding: 10px;
+}
+
+.two{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.two div button{
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: transparent;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    padding:10px;
+}
+
+.prod1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.prod2{
+    display:flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+
